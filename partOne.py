@@ -3,6 +3,7 @@ def main():
     myFunction(slow)
 
 def myFunction(text):
-  #Your code goes here.
+  b = input("What was your fondest memory?" )#Your code goes here.
+  c=b.replace(' ', 'a')
 
 main()
